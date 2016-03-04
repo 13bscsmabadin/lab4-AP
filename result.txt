@@ -1,0 +1,13 @@
+.netbeans_automatic_build         C:\Users\mabadin.bscs13seecs\Documents\NetBeansProjects\crawler\build\classes\.netbeans_automatic_build
+.netbeans_update_resources         C:\Users\mabadin.bscs13seecs\Documents\NetBeansProjects\crawler\build\classes\.netbeans_update_resources
+Crawler.class         C:\Users\mabadin.bscs13seecs\Documents\NetBeansProjects\crawler\build\classes\crawler\Crawler.class
+build.xml         C:\Users\mabadin.bscs13seecs\Documents\NetBeansProjects\crawler\build.xml
+hello.txt         C:\Users\mabadin.bscs13seecs\Documents\NetBeansProjects\crawler\hello.txt
+manifest.mf         C:\Users\mabadin.bscs13seecs\Documents\NetBeansProjects\crawler\manifest.mf
+build-impl.xml         C:\Users\mabadin.bscs13seecs\Documents\NetBeansProjects\crawler\nbproject\build-impl.xml
+genfiles.properties         C:\Users\mabadin.bscs13seecs\Documents\NetBeansProjects\crawler\nbproject\genfiles.properties
+private.properties         C:\Users\mabadin.bscs13seecs\Documents\NetBeansProjects\crawler\nbproject\private\private.properties
+project.properties         C:\Users\mabadin.bscs13seecs\Documents\NetBeansProjects\crawler\nbproject\project.properties
+project.xml         C:\Users\mabadin.bscs13seecs\Documents\NetBeansProjects\crawler\nbproject\project.xml
+result.txt         C:\Users\mabadin.bscs13seecs\Documents\NetBeansProjects\crawler\result.txt
+Crawler.java         C:\Users\mabadin.bscs13seecs\Documents\NetBeansProjects\crawler\src\crawler\Crawler.java
